@@ -1,16 +1,6 @@
+# About NNRL
+
+The Neuroscience and Neuroengineering Laboratory (NNRL) at Iran University of Science and Technology (IUST) in Tehran is dedicated to advancing research in neuroscience. Our work focuses on areas such as working memory and decoding neural signals like LFP, EEG, and fmri. Equipped with state-of-the-art tools like eye trackers and EEG recording systems, NNRL aims to unravel the complexities of the brain through innovative experiments and analysis.
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
